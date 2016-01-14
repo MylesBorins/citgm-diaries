@@ -24,3 +24,5 @@ https://github.com/moment/moment/pull/2830#issuecomment-168829926
 Should ever moment developer install a dupe of grunt-cli on their system? Is it weird that running ```npm test``` could potentially run a different grunt-cli than ```grunt test```?
 
 Currently not sure what the best solution is and moment is not currently being tested by citgm.
+
+Moment ended up adding grunt-cli to the dev deps and now it is being tested by citgm again!
