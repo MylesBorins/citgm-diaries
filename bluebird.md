@@ -18,3 +18,12 @@ I worked with @evanlucas to come up with a fix.
 The first iteration is simply shimming in the functions as no-ops
 
 https://github.com/nodejs/node/pull/5061
+
+We decided to not implement this. It is clearly documented that you should feature detect
+if you are using those features.
+
+@evanlucas submitted a PR to udpate blue bird
+
+https://github.com/petkaantonov/bluebird/pull/992
+
+bluebird now works!
