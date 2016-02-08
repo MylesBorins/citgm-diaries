@@ -5,3 +5,5 @@ blows up on v5 >
 send pr to update it. Also add v4 and v5 to `.travis.yml`
 
 pinged substack in #stackvm
+
+substack merged change and released, still waiting for new release
