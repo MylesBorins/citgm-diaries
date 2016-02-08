@@ -14,3 +14,5 @@ Our algorithm for scraping tar balls relies on the repo in the package.json... w
 
 PR sent
 https://github.com/pugjs/jade/pull/2238
+
+PR accepted, still waiting on a release.
