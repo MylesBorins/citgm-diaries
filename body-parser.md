@@ -21,6 +21,8 @@ comment on the issue
 > 
 > I'm not 100% that the changes present here justify the edge case
 
-Figures out a fix check it out, check if number isFinite()
+Figured out a fix check it out, check if number isFinite()
 
 https://github.com/nodejs/node/commit/878bcd43f8f9d3ec0d3403cb1bbe1ba6201a6d84
+
+Fix will land in v5.3.1, regression never hit LTS
